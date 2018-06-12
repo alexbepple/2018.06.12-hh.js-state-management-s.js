@@ -1,0 +1,15 @@
+.right {
+    position: absolute;
+    top: 0;
+    left: 53%;
+}
+
+.right img {
+    width: 95%
+}
+
+.footnote {
+    position: absolute;
+    bottom: 3em;
+    padding-right: 2em;
+}
