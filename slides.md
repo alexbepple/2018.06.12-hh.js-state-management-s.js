@@ -1,5 +1,5 @@
 
-background-image: url(/assets/hugh-stevenson-596597-unsplash.jpg)
+background-image: url(assets/hugh-stevenson-596597-unsplash.jpg)
 background-size: cover
 
 class: middle
@@ -29,7 +29,7 @@ console.log(b()) // => 2
 
 ---
 
-background-image: url(/assets/markus-petritz-135033-unsplash.jpg)
+background-image: url(assets/markus-petritz-135033-unsplash.jpg)
 background-size: cover
 
 class: bottom
@@ -69,7 +69,7 @@ class: inverse
 # How do you <br/> implement <br/> this with <br/> Redux?
 
 .right[
-  ![](/assets/3-counters.png)
+  ![](assets/3-counters.png)
 ]
 
 --
@@ -185,7 +185,7 @@ But we gain
 ---
 
 
-background-image: url(/assets/hugh-stevenson-596597-unsplash.jpg)
+background-image: url(assets/hugh-stevenson-596597-unsplash.jpg)
 background-size: cover
 
 
