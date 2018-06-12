@@ -2,3 +2,4 @@ assets: ['assets']
 cssFiles: ['styles.css']
 remarkConfig:
   highlightLines: true
+  highlightStyle: 'tomorrow-night'
